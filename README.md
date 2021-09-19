@@ -1,4 +1,4 @@
-👋 Hi, I’m Arvind Atmuri, I am a 3⭐ Programmer as per HackerRank!
+👋 Hi, I’m Arvind Atmuri, I am a 3⭐ Python Programmer as per HackerRank!
 
 🏢 I work as an Automation Engineer in Test
 
