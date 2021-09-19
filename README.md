@@ -4,6 +4,8 @@
 
 ❗ I Primarily work on Python , but i do have experience in Java and many other languaes
 
+Skills: Automation Using Selenium, Appium using (pyTest, RobotFramework, Unittest, Junit, TestNG) and Cypress, NLP, Data Scraping
+
 🤔 I’m interested in: Artificial Intelligence🤖 & Cloud ☁
 
 📚📖 I’m currently learning: Data Science📈 & Machine Learning🧬
