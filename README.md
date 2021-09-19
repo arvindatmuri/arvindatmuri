@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning: DataScience and Machine Learning
 
-📫 How to reach me: arvindatmuri@gmail.com
+📫 How to reach me: arvindatmuri@gmail.com / aravindratna93@gmail.com
 
 <!---
 arvindatmuri/arvindatmuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
