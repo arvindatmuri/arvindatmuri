@@ -2,9 +2,9 @@
 
 🏢 I work as an Automation Engineer⚙ in Test🧪
 
-❗ I Primarily work on Python , but i do have experience in Java and many other languaes
+❗ I Primarily work on Python , but i do have experience in Java and many other languaes.
 
-Skills: Automation Using Selenium, Appium using (pyTest, RobotFramework, Unittest, Junit, TestNG) and Cypress, NLP, Data Scraping
+🐱‍🏍 I'm skilled in: Test Automation Using Selenium, Appium using (pyTest, RobotFramework, Unittest, Junit, TestNG) and Cypress, NLP, Data Scraping.
 
 🤔 I’m interested in: Artificial Intelligence🤖 & Cloud ☁
 
