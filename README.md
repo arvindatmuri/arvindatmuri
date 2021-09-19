@@ -4,7 +4,7 @@
 
 ❗ I Primarily work on Python , but i do have experience in Java and many other languaes
 
-🤔 I’m interested in: Artificial Intelligence
+🤔 I’m interested in: Artificial Intelligence🤖 & Cloud ☁
 
 📚📖 I’m currently learning: Data Science📈 & Machine Learning🧬
 
