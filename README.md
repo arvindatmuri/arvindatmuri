@@ -1,10 +1,12 @@
-👋 Hi, I’m Arvind Atmuri, I am a 3⭐ Python Programmer as per HackerRank!
+👋 Hi, I’m Arvind Atmuri🙎‍♂️, I am a 3⭐ Python Programmer as per HackerRank!
 
 🏢 I work as an Automation Engineer in Test
 
-👀 I’m interested in: Artificial Intelligence
+❗ I Primarily work on Python , but i do have experience in Java and many other languaes
 
-🌱 I’m currently learning: DataScience and Machine Learning
+🤔 I’m interested in: Artificial Intelligence
+
+📚📖 I’m currently learning: Data Science🧪 & Machine Learning🧬
 
 📫 How to reach me: arvindatmuri@gmail.com / aravindratna93@gmail.com
 
