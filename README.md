@@ -1,16 +1,16 @@
-👋 Hi, I’m Arvind Atmuri🧑🏽‍🦲, I am a 5⭐ Python Programmer as per HackerRank!
+👋  Hi, I’m Arvind Atmuri🧑🏽‍🦲, I am a 5 ⭐ Python Programmer as per HackerRank!
 
-🏢 I work as an Senior Automation Engineer⚙ in Test🧪
+🏢  I work as an Senior Automation Engineer⚙ in Test 🧪
 
 ❗ I Primarily work on Python , but i do have experience in Java and many other languaes.
 
-🐱‍🏍 I'm skilled in: Test Automation Using Selenium, Appium using (pyTest, RobotFramework, Unittest, Junit, TestNG) and Cypress, NLP.
+🐱‍ 🏍 I'm skilled in: Test Automation Using Selenium, Appium using (pyTest, RobotFramework, Unittest, Junit, TestNG) and Cypress, NLP.
 
-🤔 I’m interested in: Artificial Intelligence🤖 & Cloud ☁
+🤔 I’m interested in: Artificial Intelligence 🤖 & Cloud ☁
 
-📚📖 I’m currently learning: Data Science📈 & Machine Learning🧬
+📚 📖 I’m currently learning: Data Science 📈 & Machine Learning 🧬
 
-📫 How to reach me: 📧 arvindatmuri@gmail.com /📧 aravindratna93@gmail.com
+📫  How to reach me: 📧 arvindatmuri@gmail.com /📧 aravindratna93@gmail.com
 
 <!---
 arvindatmuri/arvindatmuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
